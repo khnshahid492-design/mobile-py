@@ -1,0 +1,6 @@
+# Allow all search engines to crawl all pages
+User-agent: *
+Disallow:
+
+# Link to your sitemap
+Sitemap: https://khnshahid492-design.github.io/electronics-py/sitemap.xml
